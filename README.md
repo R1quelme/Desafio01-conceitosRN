@@ -12,4 +12,24 @@
 
 <strong>ToDo</strong> is a development project <strong>mobile</strong>. A task management application.
 
+<br>  
+<a id="howtouse"></a>
 
+## :dart: How to use
+Clone the repository
+
+```bash
+https://github.com/R1quelme/Todo-Desafio.git
+```
+
+```bash
+# Enter the project folder
+cd todo-Desafio
+
+# Install the dependencies
+yarn
+# or
+npm install
+
+# exit the IOS folder and run
+cd ios && arch -x86_64 xed . && CD ..
