@@ -10,5 +10,4 @@
 
 ## :pencil: About the project GoFinances
 
-<strong>GoFinances</strong> is a development project <strong>mobile</strong>. It is an app to help people manage their spend in a simple and secure way.
-
+<strong>GoFinances</strong> is a development project <strong>mobile</strong>. A task management application.
