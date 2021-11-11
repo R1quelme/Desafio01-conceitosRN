@@ -36,3 +36,5 @@ pod install
 
 # exit the IOS folder and run
 cd ios && arch -x86_64 xed . && CD ..
+
+# Xcode will open, run the project there
