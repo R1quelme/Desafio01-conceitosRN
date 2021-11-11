@@ -38,8 +38,10 @@ pod install
 cd ios && arch -x86_64 xed . && CD ..
 
 # Xcode will open, run the project there
+```
 
 <br>
+
 <h1 align="center">
 <img alt="ToDoApp" title="ToDoApp" src="https://github.com/R1quelme/Todo-Desafio/blob/main/src/assets/images/logo/telaApp.jpeg" width="500px"/>
 </h1>
