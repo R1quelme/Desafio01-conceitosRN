@@ -8,6 +8,8 @@
 <br>
 <a id="about"></a>
 
-## :pencil: About the project GoFinances
+## :pencil: About the project ToDo
 
-<strong>GoFinances</strong> is a development project <strong>mobile</strong>. A task management application.
+<strong>ToDo</strong> is a development project <strong>mobile</strong>. A task management application.
+
+
