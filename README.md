@@ -31,5 +31,8 @@ yarn
 # or
 npm install
 
+# Enter in the IOS folder
+pod install
+
 # exit the IOS folder and run
 cd ios && arch -x86_64 xed . && CD ..
